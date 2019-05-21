@@ -1,0 +1,5 @@
+[0mCompiling "main.js" from ["src"]...[0m
+[32mSuccessfully compiled "main.js" in 0.377 seconds.[0m
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out/test_figwheel/core.js
